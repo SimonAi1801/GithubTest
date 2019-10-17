@@ -1,9 +1,9 @@
 # Description for the GithubTest 
 
-##General points
+## General points
 
 This is some life coding from the HTL Leonding
 
-*Generics
-*Stack
-*Boxing/Unboxing
+* Generics
+* Stack
+* Boxing/Unboxing
